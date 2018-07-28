@@ -10,7 +10,7 @@ a project based on a object oriented PHP with a connection to a database. The pr
 
 Written program is "ready to use", you can run it on XAMPP, or winNMP server.
 
-**How to use instructions:**
+**How to use instructions: (GUI is in Polish)**
 1. After entering the website, to create a new account, enter the login and password, and then press the "Zarejestruj użytkownika" (Register user) button.
 2. Then you can log in to the newly created account, by entering the login and password again, and pressing the "Zaloguj" (Login) button.
 3. After correct login, the "pop-up" with the title "ciasteczko" (cookie) on the right side of the screen should display the content of the cookie created after logging in.
