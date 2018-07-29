@@ -16,6 +16,6 @@ Written program is "ready to use", you can run it on XAMPP, or winNMP server.
 3. After correct login, the "pop-up" with the title "ciasteczko" (cookie) on the right side of the screen should display the content of the cookie created after logging in.
 4. Then, the program allows browsing, adding, deleting, articles and authors.
 
-**Screen: **
+**Screen:**
 
 ![Alt text](php_pdo_project_screen.png?raw=true "Preview")
