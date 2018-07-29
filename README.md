@@ -19,3 +19,5 @@ Written program is "ready to use", you can run it on XAMPP, or winNMP server.
 **Screen: **
 
 ![Preview image:](https://preview.ibb.co/hUaaKT/php_pdo_project_screen.png)
+
+Better resolution: https://ibb.co/cCD6R8
