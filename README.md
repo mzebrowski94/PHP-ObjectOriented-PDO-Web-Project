@@ -19,4 +19,4 @@ Written program is "ready to use", you can run it on XAMPP, or winNMP server.
 **Screen:**
 
 <img src="preview/php_pdo_project_screen.png?raw=true" width="50%" height="50%"><br>
-<img src="preview/php_project.gif?raw=true" width="50%" height="50%">
+<img src="preview/php_project.gif?raw=true">
